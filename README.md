@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hoc-git
 
 1. git init (khoi tao)
@@ -7,3 +8,6 @@
   # //git commit -a -m "" (save local)
 4. git push //push server git
 5. git pull (cập nhập local với server)
+=======
+# hoc-git
+>>>>>>> parent of f83a81e... Update README.md
